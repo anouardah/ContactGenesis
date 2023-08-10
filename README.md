@@ -14,4 +14,4 @@ Go to http://localhost:8080/swagger-ui/index.html when the application is runnin
 
 # Postman
 
-A postman project export is also available in this repository, see file [ContactApp.postman_collection.json](ContactApp.postman_collection.json)
+A postman project export is also available in this repository, see file [ContactApp.postman_collection.json](ContactApp.postman_collection.json).
