@@ -10,7 +10,7 @@ The api can now be accessed on port 8080 (http://localhost:8080).
 
 A swagger documentation is available.
 
-Go to http://localhost:8080/swagger-ui/index.html when the application is running to view the swagger documentation..
+Go to http://localhost:8080/swagger-ui/index.html when the application is running to view the swagger documentation.
 
 # Postman
 
